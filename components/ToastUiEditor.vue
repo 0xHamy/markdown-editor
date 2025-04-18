@@ -1,6 +1,6 @@
 <!-- components/ToastUiEditor.vue -->
 <template>
-  <div ref="editor" class="tui-editor"></div>
+  <div ref="editor" class="tui-editor toastui-editor-dark"></div>
 </template>
 
 <script>
